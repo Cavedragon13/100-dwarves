@@ -1,0 +1,7 @@
+.DS_Store
+*.zip
+rename_mapping.json
+GEMINI.md
+dwarves.html
+.claude/
+thumbnails/
